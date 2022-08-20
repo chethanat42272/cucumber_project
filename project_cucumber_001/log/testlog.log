@@ -1,0 +1,465 @@
+2022-08-19 15:22:15,884 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:22:16,510 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:22:19,674 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:22:20,063 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:22:29,716 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-19 15:22:29,770 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-19 15:22:29,798 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-19 15:22:32,936 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-19 15:22:32,987 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-19 15:22:39,072 - project_cucumber_001 -INFO - ***Clicking the Addnew button***
+2022-08-19 15:22:43,689 - project_cucumber_001 -INFO - ***Entering the required data into the customer info ****
+2022-08-19 15:23:04,379 - project_cucumber_001 -INFO - ****Saving the details****
+2022-08-19 15:23:15,375 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-19 15:23:17,181 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:23:17,185 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:23:20,740 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:23:21,045 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:23:27,279 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-19 15:23:27,284 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-19 15:23:27,306 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-19 15:23:30,443 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-19 15:23:30,483 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-19 15:23:36,168 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-19 15:23:36,191 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-19 15:23:36,403 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-19 15:23:47,979 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-19 15:23:49,726 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:23:49,727 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:23:53,826 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:23:54,125 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:24:00,811 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-19 15:24:00,812 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-19 15:24:00,823 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-19 15:24:03,927 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-19 15:24:03,966 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-19 15:24:09,686 - project_cucumber_001 -INFO - ***Entering the firstname to search Customer***
+2022-08-19 15:24:09,856 - project_cucumber_001 -INFO - ****Entering the lastname to search Customer***
+2022-08-19 15:24:10,005 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-19 15:24:14,132 - project_cucumber_001 -INFO - ****Searching the customer by fullname****
+2022-08-19 15:24:18,899 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-19 15:24:20,599 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:24:20,667 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:24:23,916 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:24:24,213 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:24:30,355 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 15:24:30,364 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 15:24:30,365 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 15:24:30,365 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 15:24:35,998 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 15:24:36,007 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 15:24:36,007 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 15:24:36,008 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 15:24:37,938 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:24:37,940 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:24:40,811 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:24:41,107 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:24:47,538 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 15:24:47,550 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 15:24:47,550 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 15:24:47,551 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 15:24:53,364 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 15:24:53,373 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 15:24:53,373 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 15:24:53,374 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 15:24:55,166 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 15:24:55,168 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 15:24:57,884 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 15:24:58,201 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 15:25:04,519 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 15:25:04,530 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 15:25:04,531 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 15:25:04,531 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 15:25:10,183 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 15:25:10,193 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 15:25:10,193 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 15:25:10,193 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 16:51:44,578 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 16:51:48,858 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 16:51:53,151 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 16:51:53,526 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 16:51:59,963 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 16:51:59,977 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 16:51:59,982 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 16:51:59,982 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 16:52:05,660 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 16:52:05,672 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 16:52:05,673 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 16:52:05,673 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 16:52:05,922 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 16:52:07,868 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 16:52:11,898 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 16:52:12,153 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 16:52:20,506 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 16:52:20,506 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 16:52:20,506 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 16:52:20,506 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 16:52:26,940 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 16:52:26,940 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 16:52:26,940 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 16:52:26,940 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 16:52:27,128 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 16:52:28,614 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 16:52:32,966 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 16:52:33,159 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 16:52:38,967 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 16:52:38,967 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 16:52:38,967 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 16:52:38,967 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 16:52:45,223 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 16:52:45,223 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 16:52:45,223 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 16:52:45,223 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 16:57:21,705 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 16:57:23,574 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 16:57:24,182 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:15:02,239 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:15:05,342 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:15:12,520 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:15:12,729 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:15:19,881 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:15:19,881 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:15:19,881 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:15:19,881 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:15:25,562 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:15:25,562 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:15:25,562 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:15:25,562 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:15:25,863 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:15:27,343 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:15:31,258 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:15:31,465 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:15:37,425 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:15:37,425 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:15:37,425 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:15:37,425 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:15:43,192 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:15:43,195 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:15:43,195 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:15:43,195 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:15:43,426 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:15:45,192 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:15:48,523 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:15:48,705 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:15:54,766 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:15:54,766 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:15:54,766 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:15:54,766 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:16:00,161 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:16:00,161 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:16:00,161 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:16:00,161 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:19:22,659 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:19:25,452 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:19:28,881 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:19:29,069 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:19:36,232 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:19:36,232 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:19:36,232 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:19:36,232 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:19:41,768 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:19:41,775 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:19:41,776 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:19:41,776 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:19:41,922 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:19:43,577 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:19:47,210 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:19:47,396 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:19:54,832 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:19:54,832 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:19:54,832 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:19:54,832 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:20:00,381 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:20:00,384 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:20:00,384 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:20:00,384 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:20:00,679 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:20:02,214 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:20:04,629 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:20:04,819 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:20:10,977 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:20:10,977 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:20:10,977 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:20:10,977 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:20:16,599 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:20:16,601 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:20:16,601 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:20:16,601 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:22:30,581 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:22:33,459 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:22:36,831 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:22:37,039 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:22:53,453 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:22:53,468 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:22:53,468 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:22:53,468 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:22:59,124 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:22:59,124 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:22:59,124 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:22:59,124 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:23:59,177 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:24:02,421 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:24:04,493 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:24:04,687 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:24:10,903 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:24:10,903 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:24:10,919 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:24:10,919 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:24:16,355 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:24:16,355 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:24:16,355 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:24:16,355 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:24:16,626 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:24:18,120 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:24:21,369 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:24:21,553 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:24:29,235 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:24:29,235 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:24:29,235 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:24:29,235 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:24:34,637 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:24:34,637 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:24:34,637 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:24:34,637 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-19 17:27:13,203 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:27:16,352 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:27:19,490 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:27:19,688 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:27:26,295 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-19 17:27:26,302 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-19 17:27:26,311 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-19 17:27:29,374 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-19 17:27:29,391 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-19 17:27:34,700 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-19 17:27:34,700 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-19 17:27:34,844 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-19 17:27:45,874 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-19 17:27:46,015 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-19 17:27:47,510 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-19 17:27:52,813 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-19 17:27:52,995 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-19 17:27:59,568 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-19 17:27:59,578 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-19 17:27:59,578 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-19 17:27:59,578 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-19 17:28:05,127 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-19 17:28:05,127 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-19 17:28:05,127 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-19 17:28:05,127 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 11:59:05,540 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 11:59:10,239 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 11:59:13,410 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 11:59:13,795 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 11:59:21,281 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 11:59:21,321 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 11:59:21,346 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 11:59:24,463 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 11:59:24,522 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 11:59:30,319 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 11:59:30,324 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 11:59:30,571 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 11:59:42,084 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 11:59:43,239 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 11:59:45,026 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 11:59:47,714 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 11:59:48,035 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 11:59:54,643 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 11:59:54,655 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 11:59:54,655 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 11:59:54,655 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 12:00:00,536 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 12:00:00,546 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 12:00:00,546 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 12:00:00,546 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 12:07:02,141 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:07:05,796 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:07:20,330 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:07:20,693 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:07:32,598 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 12:07:32,611 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 12:07:32,628 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 12:07:35,766 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 12:07:35,859 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 12:07:42,354 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 12:07:42,364 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 12:07:42,631 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 12:07:54,558 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 12:07:57,117 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:07:58,789 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:08:01,719 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:08:02,057 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:08:12,569 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 12:08:12,581 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 12:08:12,582 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 12:08:12,582 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 12:08:19,244 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 12:08:19,262 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 12:08:19,262 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 12:08:19,262 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 12:17:06,377 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:17:10,134 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:17:43,097 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:17:43,448 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:17:56,415 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 12:17:56,421 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 12:17:56,439 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 12:17:59,542 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 12:17:59,592 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 12:18:06,370 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 12:18:06,375 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 12:18:06,626 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 12:18:18,103 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 12:18:18,332 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:18:20,242 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:18:23,102 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:18:23,428 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:18:29,484 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 12:18:29,498 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 12:18:29,499 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 12:18:29,500 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 12:18:35,212 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 12:18:35,221 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 12:18:35,221 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 12:18:35,221 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 12:25:27,993 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:25:31,864 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:25:33,681 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:25:35,457 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:25:39,427 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:25:39,782 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:27:57,515 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:28:01,472 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:28:05,202 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:28:05,516 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:28:12,533 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 12:28:12,546 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 12:28:12,557 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 12:28:15,679 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 12:29:52,392 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:38:40,067 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:51:38,437 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:51:41,959 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:51:46,587 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:51:46,942 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:51:56,913 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 12:51:56,931 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 12:51:56,961 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 12:52:00,094 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 12:52:00,137 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 12:52:06,928 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 12:52:06,931 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 12:52:07,194 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 12:52:21,897 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 12:52:22,106 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 12:52:23,821 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 12:52:28,004 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 12:52:28,331 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 12:59:32,428 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:47:56,371 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:48:03,494 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:48:08,645 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 18:48:08,837 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 18:48:15,352 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 18:48:15,352 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 18:48:15,367 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 18:48:18,438 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 18:48:18,464 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 18:48:24,213 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 18:48:24,213 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 18:48:24,356 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 18:48:35,695 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 18:48:35,884 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:48:37,512 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:48:43,409 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 18:48:43,600 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 18:48:50,460 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 18:48:50,460 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 18:48:50,460 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 18:48:50,460 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 18:48:56,196 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 18:48:56,198 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 18:48:56,198 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 18:48:56,198 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 18:51:26,433 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:51:29,200 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:51:31,650 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:51:33,355 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:58:10,015 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:58:12,890 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:58:16,814 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 18:58:17,011 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 18:58:23,890 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 18:58:23,890 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 18:58:23,905 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 18:58:26,968 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 18:58:26,984 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 18:58:32,333 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 18:58:32,333 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 18:58:32,500 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 18:58:44,063 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 18:58:44,219 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 18:58:45,799 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 18:58:48,525 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 18:58:48,711 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 18:58:54,803 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 18:58:54,803 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 18:58:54,803 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 18:58:54,803 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 18:59:07,753 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 18:59:07,761 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 18:59:07,762 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 18:59:07,762 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 19:14:55,414 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:14:58,389 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:15:00,197 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:15:02,341 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:16:23,767 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:16:26,576 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:16:30,779 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 19:16:30,968 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 19:16:39,003 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 19:16:39,003 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 19:16:39,019 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 19:16:42,093 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 19:16:42,109 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 19:16:47,596 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 19:16:47,596 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 19:16:47,742 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 19:17:08,292 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 19:17:08,451 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:17:09,886 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:17:41,440 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 19:17:41,626 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 19:17:57,302 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 19:17:57,302 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 19:17:57,302 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 19:17:57,302 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 19:18:02,919 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 19:18:02,935 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 19:18:02,935 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 19:18:02,935 - project_cucumber_001 -INFO - ***Closing the browser***
+2022-08-20 19:28:59,069 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:29:01,936 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:29:06,431 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 19:29:06,623 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 19:29:14,376 - project_cucumber_001 -INFO - ***Initializing the addcustomerpage object***
+2022-08-20 19:29:14,376 - project_cucumber_001 -INFO - ***Getting the addcustomer page title***
+2022-08-20 19:29:14,392 - project_cucumber_001 -INFO - ****Clicking the customer menu option***
+2022-08-20 19:29:17,466 - project_cucumber_001 -INFO - ***Getting the customers option text and validating the text with expected text***
+2022-08-20 19:29:17,488 - project_cucumber_001 -INFO - ****clicking the customers option****
+2022-08-20 19:29:22,958 - project_cucumber_001 -INFO - ****Initializing the SearchCustomerpage object***
+2022-08-20 19:29:22,958 - project_cucumber_001 -INFO - ***Entering the emailID to search customer***
+2022-08-20 19:29:23,103 - project_cucumber_001 -INFO - ***Clicking the search button***
+2022-08-20 19:29:34,628 - project_cucumber_001 -INFO - *****Closing the browser****
+2022-08-20 19:29:34,815 - project_cucumber_001 -INFO - *****Browser started to launch*****
+2022-08-20 19:29:36,153 - project_cucumber_001 -INFO - ****Opening the URL****
+2022-08-20 19:29:38,900 - project_cucumber_001 -INFO - ***Providing the valid login details***
+2022-08-20 19:29:39,095 - project_cucumber_001 -INFO - ****Clicking the login button****
+2022-08-20 19:29:45,125 - project_cucumber_001 -INFO - ****Getting the actual homepage title*****
+2022-08-20 19:29:45,125 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Homepage*****
+2022-08-20 19:29:45,125 - project_cucumber_001 -INFO - ***Printing the HomePage Title***
+2022-08-20 19:29:45,125 - project_cucumber_001 -INFO - ***Clicking the logout button***
+2022-08-20 19:29:50,687 - project_cucumber_001 -INFO - ***Getting the login page Title***
+2022-08-20 19:29:50,687 - project_cucumber_001 -INFO - ****Validating the actual and Expected title of Loginpage*****
+2022-08-20 19:29:50,687 - project_cucumber_001 -INFO - ****Printing the LoginPage title****
+2022-08-20 19:29:50,687 - project_cucumber_001 -INFO - ***Closing the browser***
